@@ -32,7 +32,9 @@ Learn SQL [Link](https://www.udacity.com/course/learn-sql--nd072?irclickid=1ltVo
 
 **Maths**
 
+Linear Algebra : [Prof Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
+Calculus : [Coursera](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
 
 
 **Data Science**  
