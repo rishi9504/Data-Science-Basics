@@ -3,29 +3,6 @@
 
 Best Resources to Learn Data Science
 
-This article contains quite a good number of links : [Medium article](https://medium.datadriveninvestor.com/best-resources-for-data-science-and-machine-learning-full-list-5ceb9a2791bf)
-
-**
-Best Channels and Blogs
-Best Data Science Techniques — 23 Data Science Hacks
-ML Interview questions
-Best Podcasts
-Lesser-Known Python Libraries for Data Science
-Best Competitions
-Helpful Ipython Notebook Tutorials/Guides
-Best DataSets
-Data Science and Machine Learning Projects
-News & Newsletters
-Tools and Processes
-Cheatsheets, Tips, and Tricks
-Free Books and Complete Tutorials
-Deep Learning Resources
-Free Computer Science, Machine Learning, Data Science, Deep Learning books
-Free Computer Science Online Courses
-ML/Data Science Projects
-Salaries, Techniques, and Tools
-Courses**
-
 
 
 **Best Courses**
