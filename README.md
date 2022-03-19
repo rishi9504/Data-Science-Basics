@@ -36,6 +36,8 @@ Linear Algebra : [Prof Gilbert Strang](https://ocw.mit.edu/courses/mathematics/1
 
 Calculus : [Coursera](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
 
+Probablity from  Harvard : https://pll.harvard.edu/course/data-science-probability?delta=2
+
 
 **Data Science**  
 
