@@ -1,5 +1,5 @@
 
-1. Basic Math and Calculus Review
+**1. Basic Math and Calculus Review**
 
 Number Theory
 
