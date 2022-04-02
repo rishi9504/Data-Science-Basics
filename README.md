@@ -67,4 +67,12 @@ EDX: [Link](https://www.edx.org/course/machine-learning)
 
 Udacity: [Link](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
+**Important Frameworks for learning Data Science from Python**
+
+
+Pandas : https://pandas.pydata.org/docs/user_guide/index.html
+
+Tensorflow: https://www.tensorflow.org/tutorials
+
+PyTorch : https://pytorch.org/
 
